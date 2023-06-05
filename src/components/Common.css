@@ -1,0 +1,10 @@
+.Display {
+    /* padding:200px; */
+    /* padding-left: 0px; */
+    padding-top: 50px;
+    padding-bottom: 500px;
+    /* padding-right: 0px; */
+    background-image: url('bg17.jpeg');
+    background-size: cover;
+    background-repeat:no-repeat;
+}
