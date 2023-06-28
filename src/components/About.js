@@ -8,7 +8,7 @@ const About = () => {
     <div className='App' style={{paddingTop:'10px'}}>
         <h2>About Me</h2>
         <br />
-        <p>I am Amrutha. BTech 3rd year Computer Science and Engineering student at collage of Engineering Trivandrum(CET).I completed my completed my polytechnic diploma in computer engineering.</p>
+        <p>I am Amrutha. BTech 3rd year Computer Science and Engineering student at collage of Engineering Trivandrum(CET).I completed my polytechnic diploma in computer engineering.</p>
         <p>I seek challenging opportunities where I can fully use my skills for the success of the
 organization and also for improving my skills itself.</p><br />
 </div>
